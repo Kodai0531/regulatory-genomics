@@ -18,7 +18,7 @@ This notebook presents a **differential gene expression analysis** of the **subs
 This notebook focuses on **ChIP-seq data analysis** for **THAP1**, a transcription factor implicated in PD, to investigate its role in the regulation of **alpha-synuclein (SNCA)** gene expression. The workflow includes:
 
 - **Quality Control (QC)** of raw sequencing reads.
-- **Read alignment** to the human genome (hg38).
+- **Read alignment** to the human genome (hg19).
 - **Peak calling** using **MACS2** to identify THAP1 binding sites.
 - **Genome-wide coverage visualization** using **bigWig** files in **IGV**.
 - **Motif discovery** to identify potential **THAP1 binding motifs**.
