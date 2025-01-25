@@ -1,5 +1,5 @@
 # **Regulatory Genomics**
---
+
 This repository contains Jupyter notebooks from my assignments in the course **"Comparative and Regulatory Genomics"**, as part of my **MSc in Bioinformatics** program at **KU Leuven, Belgium**. The analyses focus on **bulk RNA sequencing (RNA-seq) and chromatin immunoprecipitation sequencing (ChIP-seq)** to study transcriptional and regulatory changes in Parkinson’s disease (PD).
 
 ## **Contents**
